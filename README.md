@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Country Data
+Consuming this API for country data: 
+https://restcountries.com/#api-endpoints-v3-all
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
